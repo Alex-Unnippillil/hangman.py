@@ -5,5 +5,5 @@ hangman word guessing game
 
 
 to do list
-- add more words / dictionary 
+- add words / dictionary 
 - add spaces between letters
